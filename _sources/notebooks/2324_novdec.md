@@ -13,114 +13,116 @@ kernelspec:
   language: python
   name: python3
 ---
-# Septembre - Octobre
-
-## Semaine 1
-### Lundi  4 septembre 2023
-Pas de cours (Rentrée professeurs)
-### Jeudi  7 septembre 2023
+# Novembre-Décembre
+## Semaine 8
+### Lundi  6 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  8 septembre 2023
+### Jeudi  9 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 2
-### Lundi  11 septembre 2023
+### Vendredi  10 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  14 septembre 2023
+## Semaine 9
+### Lundi  13 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  15 septembre 2023
+### Jeudi  16 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 3
-### Lundi  18 septembre 2023
+### Vendredi  17 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  21 septembre 2023
+## Semaine 10
+### Lundi  20 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  22 septembre 2023
+### Jeudi  23 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 4
-### Lundi  25 septembre 2023
+### Vendredi  24 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  28 septembre 2023
+## Semaine 11
+### Lundi  27 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  29 septembre 2023
+### Jeudi  30 novembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 5
-### Lundi  2 octobre 2023
+### Vendredi  1 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  5 octobre 2023
+## Semaine 12
+### Lundi  4 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  6 octobre 2023
+### Jeudi  7 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 6
-### Lundi  9 octobre 2023
+### Vendredi  8 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  12 octobre 2023
+## Semaine 13
+### Lundi  11 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  13 octobre 2023
+### Jeudi  14 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-## Semaine 7
-### Lundi  16 octobre 2023
+### Vendredi  15 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Jeudi  19 octobre 2023
+## Semaine 14
+### Lundi  18 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
 
 ```
-### Vendredi  20 octobre 2023
+### Jeudi  21 décembre 2023
 ```{sidebar} Travail à faire
-Pour le :
+Pour le : 
+
+```
+### Vendredi  22 décembre 2023
+```{sidebar} Travail à faire
+Pour le : 
 
 ```

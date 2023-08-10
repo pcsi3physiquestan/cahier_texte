@@ -18,52 +18,64 @@ kernelspec:
 ## Semaine 22
 ### Lundi  11 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Jeudi  14 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Vendredi  15 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ## Semaine 23
 ### Lundi  18 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Jeudi  21 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Vendredi  22 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ## Semaine 24
 ### Lundi  25 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Jeudi  28 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Vendredi  29 mars 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ## Semaine 25
 ### Lundi  1 avril 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Jeudi  4 avril 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
 ### Vendredi  5 avril 2024
 ```{sidebar} Travail à faire
+Pour le :
 
 ```
