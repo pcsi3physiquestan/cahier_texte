@@ -19,108 +19,109 @@ kernelspec:
 ### Lundi  4 septembre 2023
 Pas de cours (Rentrée professeurs)
 ### Jeudi  7 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
+<!-- 
 ### Vendredi  8 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 2
 ### Lundi  11 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  14 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  15 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 3
 ### Lundi  18 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  21 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  22 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 4
 ### Lundi  25 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  28 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  29 septembre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 5
 ### Lundi  2 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  5 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  6 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 6
 ### Lundi  9 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  12 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  13 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ## Semaine 7
 ### Lundi  16 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Jeudi  19 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
 ```
 ### Vendredi  20 octobre 2023
-```{sidebar} Travail à faire
+```{topic} Travail à faire
 Pour le :
 
-```
+``` -->
