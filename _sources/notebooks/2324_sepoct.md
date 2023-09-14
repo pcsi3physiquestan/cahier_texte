@@ -61,28 +61,28 @@ Pour le :
 * 15/09 (max 1h): Travailler le [cours sur les unité et ordre de grandeur](https://moodlecpge.stanislas.fr/course/view.php?id=2&section=2) : l'URL renvoie à la version en ligne du polycopié et le test à uen version auto-corrigée des exercices du cours. __Ces méthodes sont transverses à TOUS LES DOMAINES qui seront ensuite étudiés dans l'année,__ il est donc important de comprendre l'analyse dimensionnelle et le test d'homogénéité.
 * 15/09 : Travailler les exercices d'entrainement du chapitre 3 : [Etude d'une lentille divergente](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#etude-graphique-d-une-lentille-divergente) et [L'oeil et ses défauts](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#l-oeil-et-ses-defauts).
 ```
-<!-- 
 ## Semaine 2
 ### Lundi  11 septembre 2023
 * Optique géométrique
     * Chapitre 3 :
         * Correction des [exercices méthodes](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_exemple.html#methodes-etudes-qualitatives) sur les études qualitatives.
-        * Correction des activités sur les [lentilles accolées, les zones d'espaces conjuguées et la projection](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_meth.html#activites)
-    * Chapitre 1 : Correction des exercices sur l['arc-en-ciel](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#td-arc-en-ciel) et sur la [fibre à saut d'indice](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#fibre-optique-a-saut-d-indice)
-    * Chapitre 2 : Correction des exercices sur [le sextant](https://pcsi3physiquestan.github.io/optique/notebook/opt_centres_td.html#le-sextant) et le [dioptre hémisphérique](https://pcsi3physiquestan.github.io/optique/notebook/opt_centres_td.html#dioptre-hemispherique).
+        * Correction des activités sur les [lentilles accolées et la projection](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_meth.html#activites)
+    * Chapitre 2 : Correction de l'exercice sur le [dioptre hémisphérique](https://pcsi3physiquestan.github.io/optique/notebook/opt_centres_td.html#dioptre-hemispherique).
 
 ```{topic} Travail à faire
 Pour le :
-* 14/09 : Groupe A : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
 * 15/09 : Reprendre les exercices corrigés ce lundi.
 * 15/09 : Travailler le chapitre [Bases de mathématiques pour la physique](https://pcsi3physiquestan.github.io/math/notebook/bases.html) __en incluant les exercices "nouveaux" comme le [calcul littéral](https://pcsi3physiquestan.github.io/math/notebook/bases.html) et [les méthodes nouvelles](https://pcsi3physiquestan.github.io/math/notebook/bases_ex_appro.html)
     * Essayer de bien comprendre les notions de transformations graphiques et la manipulation des complexes qui sont les parties les plus importantes pour la suite.
 * 15/09 (max 1h): Travailler le [cours sur les unité et ordre de grandeur](https://moodlecpge.stanislas.fr/course/view.php?id=2&section=2) : l'URL renvoie à la version en ligne du polycopié et le test à uen version auto-corrigée des exercices du cours. __Ces méthodes sont transverses à TOUS LES DOMAINES qui seront ensuite étudiés dans l'année,__ il est donc important de comprendre l'analyse dimensionnelle et le test d'homogénéité.
 * 15/09 : Travailler les exercices d'entrainement du chapitre 3 : [Etude d'une lentille divergente](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#etude-graphique-d-une-lentille-divergente) et [L'oeil et ses défauts](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#l-oeil-et-ses-defauts).
+* 14/09 : Groupe A : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
+* 21/09 : Groupe B : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
 * 15/09 : Travailler l'exercice d'entrainement du chapitre 3 : [Etude d'un doublet](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#etude-d-un-doublet)
 ```
 
 ### Jeudi  14 septembre 2023
+* Groupe A : [TP Méthodes expérimentales](https://pcsi3physiquestan.github.io/tp1_methodes/tp1_methodes.html)
 
 ```{topic} Travail à faire
 Pour le :
@@ -90,13 +90,24 @@ Pour le :
     * Essayer de bien comprendre les notions de transformations graphiques et la manipulation des complexes qui sont les parties les plus importantes pour la suite.
 * 15/09 (max 1h): Travailler le [cours sur les unité et ordre de grandeur](https://moodlecpge.stanislas.fr/course/view.php?id=2&section=2) : l'URL renvoie à la version en ligne du polycopié et le test à uen version auto-corrigée des exercices du cours. __Ces méthodes sont transverses à TOUS LES DOMAINES qui seront ensuite étudiés dans l'année,__ il est donc important de comprendre l'analyse dimensionnelle et le test d'homogénéité.
 * 15/09 : Travailler les exercices d'entrainement du chapitre 3 : [Etude d'une lentille divergente](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#etude-graphique-d-une-lentille-divergente) et [L'oeil et ses défauts](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#l-oeil-et-ses-defauts).
+* 21/09 : Groupe B : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
+* Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
 
+<!-- 
 ### Vendredi  15 septembre 2023
+
+* Optique géométrique
+    * Chapitre 1 : Correction des exercices sur l['arc-en-ciel](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#td-arc-en-ciel) et sur la [fibre à saut d'indice](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#fibre-optique-a-saut-d-indice)
+    * Chapitre 2 : Correction des exercices sur [le sextant](https://pcsi3physiquestan.github.io/optique/notebook/opt_centres_td.html#le-sextant).
+    * Chapitre 3 : Correction des exercices sur [les lentilles minces](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html).
+
 ```{topic} Travail à faire
 Pour le :
-
+* Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
 ```
+
 ## Semaine 3
 ### Lundi  18 septembre 2023
 ```{topic} Travail à faire
