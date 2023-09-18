@@ -95,19 +95,22 @@ Pour le :
 * 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
 
-<!-- 
 ### Vendredi  15 septembre 2023
 
 * Optique géométrique
     * Chapitre 1 : Correction des exercices sur l['arc-en-ciel](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#td-arc-en-ciel) et sur la [fibre à saut d'indice](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#fibre-optique-a-saut-d-indice)
     * Chapitre 2 : Correction des exercices sur [le sextant](https://pcsi3physiquestan.github.io/optique/notebook/opt_centres_td.html#le-sextant).
-    * Chapitre 3 : Correction des exercices sur [les lentilles minces](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html).
+    * Chapitre 3 : Correction de l'exercice sur [l'oeil et ses défauts](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html).
 
 ```{topic} Travail à faire
 Pour le :
+* 21/09 : Groupe B : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 15/09 : Reprendre les entrainements des trois premiers chapitres et lire l'introduction au chapitre sur les instruments d'optique.
 ```
 
+<!-- 
 ## Semaine 3
 ### Lundi  18 septembre 2023
 ```{topic} Travail à faire
