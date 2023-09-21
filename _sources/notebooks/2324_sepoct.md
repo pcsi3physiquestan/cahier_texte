@@ -125,13 +125,21 @@ Pour le :
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
 * 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
-<!-- 
 ```
 ### Jeudi  21 septembre 2023
+* Groupe A : [TP Méthodes expérimentales](https://pcsi3physiquestan.github.io/tp1_methodes/tp1_methodes.html)
+
 ```{topic} Travail à faire
 Pour le :
-
+* 22/09 : Travailler l'exercice d'entrainement sur [le microscope](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_td.html#le-microscope) et la fin de l'étude sur [la lunette afocale]((https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_lunette.html).
+* 22/09 : Faire la détermination de la position graphique et par le calcul du [foyer objet de l'oculaire](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_oculaire.html).
+* 22/09 : Si le temps le permet, travailler l'exercice [Physique et informatique du dernier chapitre](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_python.html). _Un exemple de correction est en ligne pour la partie code)._
+* Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* Avant le 01/10 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
+<!-- 
 ### Vendredi  22 septembre 2023
 ```{topic} Travail à faire
 Pour le :
