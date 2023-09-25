@@ -92,7 +92,7 @@ Pour le :
 * 15/09 : Travailler les exercices d'entrainement du chapitre 3 : [Etude d'une lentille divergente](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#etude-graphique-d-une-lentille-divergente) et [L'oeil et ses défauts](https://pcsi3physiquestan.github.io/optique/notebook/opt_lentilles_td.html#l-oeil-et-ses-defauts).
 * 21/09 : Groupe B : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
-* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
 
 ### Vendredi  15 septembre 2023
@@ -106,7 +106,7 @@ Pour le :
 Pour le :
 * 21/09 : Groupe B : Lire et [comprendre la présentation sur les incertitudes](https://pcsi3physiquestan.github.io/tp_incertitude) _(Il est inutile de chercher à apprendre par coeur les différentes définitions et sources, vous apprendrez à les retenir avec l'entrainement en TP)_ et préparer le TP en lisant et travaillant [l'étude préliminaire du TP](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html#travail-etude-preliminaire) _(Aucun travail n'est à rendre pour ce premier TP)_.
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
-* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 * 18/09 : Reprendre les entrainements des trois premiers chapitres et lire l'introduction au chapitre sur les instruments d'optique.
 ```
 
@@ -123,7 +123,7 @@ Pour le :
 * 22/09 : Faire la détermination de la position graphique et par le calcul du [foyer objet de l'oculaire](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_oculaire.html).
 * 22/09 : Si le temps le permet, travailler l'exercice [Physique et informatique du dernier chapitre](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_python.html). _Un exemple de correction est en ligne pour la partie code)._
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
-* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
 ```
 ### Jeudi  21 septembre 2023
@@ -135,27 +135,52 @@ Pour le :
 * 22/09 : Faire la détermination de la position graphique et par le calcul du [foyer objet de l'oculaire](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_oculaire.html).
 * 22/09 : Si le temps le permet, travailler l'exercice [Physique et informatique du dernier chapitre](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_python.html). _Un exemple de correction est en ligne pour la partie code)._
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
-* 28/09 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
-* Avant le 01/10 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
-* 05/10 au soir : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
-<!-- 
 ### Vendredi  22 septembre 2023
+* Optique géométrique
+    * Chapitre 4 : Correction de l'activité [la lunette afocale](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_lunette.html).
+    * Retour sur le cours sur les unités et ordre de grandeur
+    * Début de la correction de l'exercice sur [la déviation par le prisme](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#la-deviation-par-le-prisme).
+
 ```{topic} Travail à faire
 Pour le :
-
+* Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 25/09 : Travailler la partie "Connaître le contexte" du cours les [Signaux](https://pcsi3physiquestan.github.io/signaux/notebook/signaux_contxt.html).
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
+
 ## Semaine 4
 ### Lundi  25 septembre 2023
+* Optique géométrique
+    * Chapitre 4 : Correction de l'exercice sur [le microscope](https://pcsi3physiquestan.github.io/optique/notebook/opt_instru_meth_lunette.html).
+* Signaux physiques : Présentation de la [décomposition spectrale](https://pcsi3physiquestan.github.io/signaux/notebook/signaux_contxt.html). Méthodes sur l'étude temporelle et fréquentielle de la [modulation en amplitude](https://pcsi3physiquestan.github.io/signaux/notebook/signaux_meth_modulation.html).
+
 ```{topic} Travail à faire
 Pour le :
-
+* 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 29/09 : Travailler le chapitre sur les [équations différentielles](https://pcsi3physiquestan.github.io/math/notebook/eq_diff.html)
+* 29/09 : Retravailler le cours sur les signaux ainsi que s'entrainer aux applications associées.
+* Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
+<!-- 
 ### Jeudi  28 septembre 2023
+* Groupe A : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Première séance (Matériel et approche qualitative).
+
 ```{topic} Travail à faire
 Pour le :
-
+* 29/09 : Travailler le chapitre sur les [équations différentielles](https://pcsi3physiquestan.github.io/math/notebook/eq_diff.html)
+* 29/09 : Retravailler le cours sur les signaux ainsi que s'entrainer aux applications associées.
+* Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale.
 ```
+
 ### Vendredi  29 septembre 2023
 ```{topic} Travail à faire
 Pour le :
