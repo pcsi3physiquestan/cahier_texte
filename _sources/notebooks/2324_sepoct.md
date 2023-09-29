@@ -168,7 +168,6 @@ Pour le :
 * Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
 * 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
-<!-- 
 ### Jeudi  28 septembre 2023
 * Groupe A : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Première séance (Matériel et approche qualitative).
 
@@ -178,14 +177,28 @@ Pour le :
 * 29/09 : Retravailler le cours sur les signaux ainsi que s'entrainer aux applications associées.
 * Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
 * 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
-* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale.
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
 
 ### Vendredi  29 septembre 2023
+* Optique géométrique
+    * Fin de la correction de l'exercice sur [la déviation par le prisme](https://pcsi3physiquestan.github.io/optique/notebook/opt_bases_td.html#la-deviation-par-le-prisme).
+* Méthodes numériques
+    * Introduction au calcul différentiel (sépration des variables, interprétation de la différentiel, utilisation de la notation de Leibniz pour simplifier/calculer des dérivées).
+    * Etude de la résolution d'[équations stationnaires](https://pcsi3physiquestan.github.io/capacites_numeriques/equation_stationnaire.html)
+* Electrocinétique
+    * Présentation des concepts de [base](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_contxt.html).
+
 ```{topic} Travail à faire
 Pour le :
-
+* 02/10 : Travailler le premier chapitre sur les bases de l'électrocinétique et retrouver les résultats données en ligne par l'utilisation des lois noeuds et des mailles pour [l'éxercice-méthode](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html#etudier-un-circuit-electrique-lineaire).
+* 02/10 : Reprendre la méthode de dichotomie présentée pour la résolution d'équation stationnaire.
+* Avant le 01/10 au soir : Groupe B - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
+
+<!-- 
 ## Semaine 5
 ### Lundi  2 octobre 2023
 ```{topic} Travail à faire
