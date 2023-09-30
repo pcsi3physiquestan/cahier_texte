@@ -125,7 +125,7 @@ Pour le :
 * Avant le 24/09 au soir : Groupe A - Travail l'[étude préliminaire sur les TPs d'optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/notebook/etude_preliminaire.html)  et le rendre sur la [plateforme Moodle](https://moodlecpge.stanislas.fr/course/view.php?id=3#section-2)
 * 28/09 : Groupe A - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 ```
-```
+
 ### Jeudi  21 septembre 2023
 * Groupe A : [TP Méthodes expérimentales](https://pcsi3physiquestan.github.io/tp1_methodes/tp1_methodes.html)
 
