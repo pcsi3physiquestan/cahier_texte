@@ -198,13 +198,28 @@ Pour le :
 * 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
 
-<!-- 
 ## Semaine 5
 ### Lundi  2 octobre 2023
+* Electrocinétique
+    * Correction des [exercices méthodes](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html) sur l'étude d'un circuit linéaire en utilisant la loi des noeuds en terme de potentiel et la détermination d'un modèle de Thévenin équivalent.
+
+```{topic} Travail à faire
+Pour le :
+* 06/10 : Reprendre les exercices méthodes corrigés et s'entraîner à déterminer le moddèle de Thévenin équivalent (correction [en ligne](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html#determiner-un-modele-de-thevenin-equivalent))
+* 06/10 : Travailler les exercices d'applications (sauf la résistance équivalente) du [premier chapitre](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_app.html)
+* 06/10 : Travailler les [exercices d'entrainement](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html) :
+    * Puissance et énergie > Dipôles linéaires passifs
+    * Applications des lois de Kirchoff > Les deux exercices
+    * Dipôles équivalents > Générateur équivalent
+
+* 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
+```
 ```{topic} Travail à faire
 Pour le :
 
 ```
+<!-- 
 ### Jeudi  5 octobre 2023
 ```{topic} Travail à faire
 Pour le :
