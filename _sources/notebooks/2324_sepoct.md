@@ -215,27 +215,65 @@ Pour le :
 * 05/10 : Groupe B - Travail la correction de l'étude préliminaire accessible sur le site après avoir rendu son travail.
 * 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
-```{topic} Travail à faire
-Pour le :
 
-```
-<!-- 
 ### Jeudi  5 octobre 2023
+* Groupe B : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Première séance (Matériel et approche qualitative).
+
 ```{topic} Travail à faire
 Pour le :
-
+* 06/10 : Reprendre les exercices méthodes corrigés et s'entraîner à déterminer le moddèle de Thévenin équivalent (correction [en ligne](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html#determiner-un-modele-de-thevenin-equivalent))
+* 06/10 : Travailler les exercices d'applications (sauf la résistance équivalente) du [premier chapitre](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_app.html)
+* 06/10 : Travailler les [exercices d'entrainement](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html) :
+    * Puissance et énergie > Dipôles linéaires passifs
+    * Applications des lois de Kirchoff > Les deux exercices
+    * Dipôles équivalents > Générateur équivalent
+---
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
+* 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
+
 ### Vendredi  6 octobre 2023
+* Electrocinétique - Bases de l'électrocinétique
+    * Résistances équivalentes et [exercices-méthodes associés](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html#dipoles-equivalents)
+    * Etude énergétiques et [exercices-méthodes associés](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_exemples.html#etudes-energetiques)
+    * Correction des exercices sur [l'application des lois de Kirchhoff](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html#applications-des-lois-de-kirchoff)
+    * Correction de l'exercice sur le [générateur équivalent](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html#dipoles-equivalents)
+    * Activité sur les [résistances d'entrée et de sortie des instruments](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_meth_r.html)
+* Electrocinétique - Régime transitoire
+    * Présentation des méthodes d'étude (mise en équation, intégration, conditions initiales et continuité, études énergétiques) sur l'[exemple du circuit d'ordre 1](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o1.html).
+
 ```{topic} Travail à faire
 Pour le :
+* 9/10 : Travailler les [exercices d'entrainement](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html) restants du premier chapitre.
+* 9/10 : Travailler les trois premières partie du chapitre sur [le régime transitoire](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_contxt.html) à savoir:
+    * [Régime transitoire et régime forcé](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_regimes.html)
+    * [Méthode d'analuse d'un régime transitoire](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_methodes.html)
+    * [Stabilité des systèmes linéaires d'ordre 1 et 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_stabilite.html)
+* Facultatif : Travailler l'exercice des [capacités numériques](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_num.html) appliquée en électrocinétique sur l'étude du redressement monoalternance en application des méthodes de résolution d'équation. __Privilégier la maitrise des études théoriques des circuits en reprenant les exercices déjà corrigés.__
 
+---
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
+* 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
+
+<!-- 
 ## Semaine 6
 ### Lundi  9 octobre 2023
+* Electrocinétique - Régime transitoire
+    * Présentation des méthodes d'étude (mise en équation, intégration, conditions initiales et continuité, études énergétiques) sur l'[exemple du circuit d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html).
+    * Présentation des [méthodes sur des circuits divers](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html)
+    * Activité sur l'[oscillateur harmonique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_oh.html#)
+
 ```{topic} Travail à faire
 Pour le :
+* 13/10 : Reprendre les exemples traités du second chapitre sur {l'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html) et les [méthodes diverses](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html).
+* 13/10 : Faire les activités [Equations d'un même circuit](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_eq.html), [Etude énergétique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_energie.html) et [Temps caractéristique d'un système d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_tps.html)
 
+---
+* 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
+* 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
+
 ### Jeudi  12 octobre 2023
 ```{topic} Travail à faire
 Pour le :
