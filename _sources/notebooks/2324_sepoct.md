@@ -256,30 +256,42 @@ Pour le :
 * 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
 
-<!-- 
 ## Semaine 6
 ### Lundi  9 octobre 2023
+* Electrocinétique - Bases de l'électrocinétique
+    * Correction des [exercices d'entrainement](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_bases_td.html) restants du premier chapitre.
 * Electrocinétique - Régime transitoire
     * Présentation des méthodes d'étude (mise en équation, intégration, conditions initiales et continuité, études énergétiques) sur l'[exemple du circuit d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html).
     * Présentation des [méthodes sur des circuits divers](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html)
-    * Activité sur l'[oscillateur harmonique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_oh.html#)
+    * Notion de [stabilité des systèmes d'ordre 1 et 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_stabilite.html)
 
 ```{topic} Travail à faire
 Pour le :
 * 13/10 : Reprendre les exemples traités du second chapitre sur {l'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html) et les [méthodes diverses](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html).
-* 13/10 : Faire les activités [Equations d'un même circuit](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_eq.html), [Etude énergétique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_energie.html) et [Temps caractéristique d'un système d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_tps.html)
+* 13/10 : Faire les exercices d'entrainement sur les [circuit d'ordre 1](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-1)
 
 ---
 * 12/10 : Groupe A - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 * 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
 ```
 
+<!-- 
 ### Jeudi  12 octobre 2023
+* Groupe A : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Deuxième séance (Approche quantitative et lunette de Galilée).
 ```{topic} Travail à faire
 Pour le :
+* 13/10 : Reprendre les exemples traités du second chapitre sur {l'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html) et les [méthodes diverses](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html).
+* 13/10 : Faire les exercices d'entrainement sur les [circuit d'ordre 1](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-1)
 
+---
+* 19/10 : Groupe B - TP d'optique :  Réfléchir aux protocoles à mettre en oeuvre pour l'étude de la lunette afocale et terminer si nécessaire l'exploitation (Monte-Carlo) utilisant la relation de Descartes.
+* 5/11 : Groupe A - TP d'electrocinétique : Travailler les deux études préliminaires sur le premier TP d'électrocinétique : l'un sur [la familiarisation avec le matériel](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire.html) et l'autre sur [la préparation des protocoles](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire_2.html).
+    *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=48) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 ```
+
 ### Vendredi  13 octobre 2023
+* Electrocinétique - Régime transitoire
+    * Activité sur l'[oscillateur harmonique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_oh.html#)
 ```{topic} Travail à faire
 Pour le :
 
