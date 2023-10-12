@@ -279,7 +279,7 @@ Pour le :
 * Groupe A : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Deuxième séance (Approche quantitative et lunette de Galilée).
 ```{topic} Travail à faire
 Pour le :
-* 13/10 : Reprendre les exemples traités du second chapitre sur {l'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html) et les [méthodes diverses](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html).
+* 13/10 : Reprendre les exemples traités du second chapitre sur [l'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_o2.html) et les [méthodes diverses](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_exemples.html).
 * 13/10 : Faire les exercices d'entrainement sur les [circuit d'ordre 1](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-1)
 
 ---
