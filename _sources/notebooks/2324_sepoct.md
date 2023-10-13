@@ -288,16 +288,21 @@ Pour le :
     *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=48) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 ```
 
-<!-- 
 ### Vendredi  13 octobre 2023
 * Electrocinétique - Régime transitoire
     * Activité sur l'[oscillateur harmonique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_oh.html#)
     * Activité sur le [temps caractéristique d'un ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_tps.html)
     * Activité sur l'[étude énergétique d'un système d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_energie.html)
+* Electrocinétique - Amplificateur linéaire intégré
+    * Présentation de l'ALI et de son fonctionnement en régime linéaire
+    * Notion sur les quadripôle et résistance de sortie et d'entrée
+* Rendu de premier devoir surveillé.
+
 ```{topic} Travail à faire
 Pour le :
 * 16/10 : Reprendre les exemples traités sur l'oscillateur harmonique et les notions de temps caractéristique.
 * 16/10 : Faire les exercices d'entrainement sur les [circuit d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-2)
+* 6/11 : Travailler le devoir libre sur l'amplificateur opérationnel (dans le fascicule).
 
 
 ---
@@ -306,11 +311,9 @@ Pour le :
     *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=48) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 
 ```
+<!-- 
 ## Semaine 7
 ### Lundi  16 octobre 2023
-* Electrocinétique - Amplificateur linéaire intégré
-    * Présentation de l'ALI et de son fonctionnement en régime linéaire
-    * Notion sur les quadripôle et résistance de sortie et d'entrée
 * Méthodes numériques
     * Schéma d'intégration d'Euler pour résoudre une équation différentielle d'ordre 1.
 
@@ -318,6 +321,7 @@ Pour le :
 Pour le :
 * Electrocinétique - Régime sinusoïdal forcé
     * 20/10 : Travailler la partie "connaître le contexte" du chapitre sur le [régime sinusoïdal forcé](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_rsf_contxt.html). Attention, toute la partie sur l'intérêt des méthodes est en ligne et il est TRES vivement conseillé de le lire pour comprendre ce qu'on veut faire et pourquoi.
+    * 6/11 : Travailler le devoir libre sur l'amplificateur opérationnel (dans le fascicule).
 * Méthodes numériques
     * 20/10 : Travailler la présentation de la [méthode d'Euler pour la résolution d'équation différentielle d'ordre 1](https://pcsi3physiquestan.github.io/capacites_numeriques/elec_reponse_o1.html) puis essayer de faire sur ordinateur l'[implémentation basique](https://pcsi3physiquestan.github.io/capacites_numeriques/elec_reponse_o1_math.html). _Essayez de réfléchir par vous même avant de voir des exemples de correction sur la page suivante, vous serez amenés à devoir coder par vous-même cette méthode._
     * 6/11 : Faire le devoir libre dans le fascicule "Capacités numériques" __à l'écrit__ intitulé [Réponse à une rampe de tension](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=241) - une version polycopié a été distribuée en début d'année.
