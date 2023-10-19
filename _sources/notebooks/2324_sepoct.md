@@ -293,6 +293,7 @@ Pour le :
     * Activité sur l'[oscillateur harmonique](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_oh.html#)
     * Activité sur le [temps caractéristique d'un ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_tps.html)
     * Activité sur l'[étude énergétique d'un système d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_meth_energie.html)
+    * Correction des exercices sur les [circuits d'ordre 1](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-1)
 * Electrocinétique - Amplificateur linéaire intégré
     * Présentation de l'ALI et de son fonctionnement en régime linéaire
     * Notion sur les quadripôle et résistance de sortie et d'entrée
@@ -311,10 +312,12 @@ Pour le :
     *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=48) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 
 ```
-<!-- 
 ## Semaine 7
 ### Lundi  16 octobre 2023
+* Electrocinétique - Régime transitoire
+    * Correction des exercices sur les [circuits d'ordre 2](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_trans_td.html#circuits-d-ordre-2)
 * Méthodes numériques
+    * Intégration et dérivation numérique
     * Schéma d'intégration d'Euler pour résoudre une équation différentielle d'ordre 1.
 
 ```{topic} Travail à faire
@@ -339,10 +342,29 @@ Pour le :
 
 ```
 ### Jeudi  19 octobre 2023
+* Groupe B : [TP Optique géométrique](https://pcsi3physiquestan.github.io/tp2_optique/tp2_optique.html) - Deuxième séance (Approche quantitative et lunette de Galilée).
 ```{topic} Travail à faire
 Pour le :
+* Electrocinétique - Régime sinusoïdal forcé
+    * 20/10 : Travailler la partie "connaître le contexte" du chapitre sur le [régime sinusoïdal forcé](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_rsf_contxt.html). Attention, toute la partie sur l'intérêt des méthodes est en ligne et il est TRES vivement conseillé de le lire pour comprendre ce qu'on veut faire et pourquoi.
+    * 6/11 : Travailler le devoir libre sur l'amplificateur opérationnel (dans le fascicule).
+* Méthodes numériques
+    * 20/10 : Travailler la présentation de la [méthode d'Euler pour la résolution d'équation différentielle d'ordre 1](https://pcsi3physiquestan.github.io/capacites_numeriques/elec_reponse_o1.html) puis essayer de faire sur ordinateur l'[implémentation basique](https://pcsi3physiquestan.github.io/capacites_numeriques/elec_reponse_o1_math.html). _Essayez de réfléchir par vous même avant de voir des exemples de correction sur la page suivante, vous serez amenés à devoir coder par vous-même cette méthode._
+    * 6/11 : Faire le devoir libre dans le fascicule "Capacités numériques" __à l'écrit__ intitulé [Réponse à une rampe de tension](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=241) - une version polycopié a été distribuée en début d'année.
+        * Les questions de code doivent donc être __rédigées__ et __commentées__ intelligemment.
+        * Les parties [Ordinateur] ne sont pas à traiter dans la copie mais il est vivement conseillé de les faire sous Python pour vérifier vos réponses.
+        * Les deux questions décrites comme "délicates" sont facultatives.
+        * La copie sera __à rendre le lundi de la rentrée lors du premier cours__.
+        * Conseil méthodologique : Ne pas passer plus de 4h (de travail) sur ce devoir et ne pas fragmenter ce travail (compter 1 séance de 4h ou 2 séances de 2h maximum).
+
+
+---
+* 5/11 : Groupe A - TP d'electrocinétique : Travailler les deux études préliminaires sur le premier TP d'électrocinétique : l'un sur [la familiarisation avec le matériel](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire.html) et l'autre sur [la préparation des protocoles](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire_2.html).
+* 12/11 : Groupe B - TP d'electrocinétique : Travailler les deux études préliminaires sur le premier TP d'électrocinétique : l'un sur [la familiarisation avec le matériel](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire.html) et l'autre sur [la préparation des protocoles](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire_2.html).
+    *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=49) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 
 ```
+<!-- 
 ### Vendredi  20 octobre 2023
 ```{topic} Travail à faire
 Pour le :
