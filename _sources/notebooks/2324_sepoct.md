@@ -364,9 +364,30 @@ Pour le :
     *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=49) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 
 ```
-<!-- 
 ### Vendredi  20 octobre 2023
+* Electrocinétique - Régime sinusoïdal forcé
+    * Présentation des [méthodes d'étude](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_rsf_methodes.html#) d'un circuit linéaire en régime sinusoïdal forcé.
+
 ```{topic} Travail à faire
 Pour le :
+* Electrocinétique - Régime sinusoïdal forcé
+    * 6/11 : Retravailler les [exercices méthodes](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_rsf_methodes.html#)
+    * 6/11 : Travailler les [exercices d'entrainements](https://pcsi3physiquestan.github.io/electrocinetique/notebook/el_rsf_td.html)
+    * 6/11 : Travailler le devoir libre sur l'amplificateur opérationnel (dans le fascicule).
+* Méthodes numériques
+    * 6/11 : Faire le devoir libre dans le fascicule "Capacités numériques" __à l'écrit__ intitulé [Réponse à une rampe de tension](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=241) - une version polycopié a été distribuée en début d'année.
+        * Les questions de code doivent donc être __rédigées__ et __commentées__ intelligemment.
+        * Les parties [Ordinateur] ne sont pas à traiter dans la copie mais il est vivement conseillé de les faire sous Python pour vérifier vos réponses.
+        * Les deux questions décrites comme "délicates" sont facultatives.
+        * La copie sera __à rendre le lundi de la rentrée lors du premier cours__.
+        * Conseil méthodologique : Ne pas passer plus de 4h (de travail) sur ce devoir et ne pas fragmenter ce travail (compter 1 séance de 4h ou 2 séances de 2h maximum).
 
-``` -->
+
+---
+* 5/11 : Groupe A - TP d'electrocinétique : Travailler les deux études préliminaires sur le premier TP d'électrocinétique : l'un sur [la familiarisation avec le matériel](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire.html) et l'autre sur [la préparation des protocoles](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire_2.html).
+* 12/11 : Groupe B - TP d'electrocinétique : Travailler les deux études préliminaires sur le premier TP d'électrocinétique : l'un sur [la familiarisation avec le matériel](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire.html) et l'autre sur [la préparation des protocoles](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/fam_preliminaire_2.html).
+    *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=49) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
+
+```
+<!-- 
+-->
