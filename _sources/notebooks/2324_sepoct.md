@@ -389,5 +389,3 @@ Pour le :
     *  L'étude préliminaire est à rendre [en ligne](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=49) et des mémentos sur l'utilisation du GBF et de l'oscilloscope sont dans en ligne aussi dans le même cours.
 
 ```
-<!-- 
--->
