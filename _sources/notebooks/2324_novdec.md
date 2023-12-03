@@ -150,12 +150,21 @@ Pour le :
 
 ```
 
-<!-- 
 ### Vendredi  1 décembre 2023
+* Mécanique - Dynamique du point : Méthodes d'étude d'un problème mécanique (Cas des actions de contact solide).
+* Capacités numériques : Intégration d'un système d'équations et d'une équation d'ordre 2 par la méthode d'Euler.
+
+
 ```{topic} Travail à faire
 Pour le : 
+* 4/12 : Reprendre les exercices méthodes corrigés en cours
+* 4/12 : Préparer les exercices restants du chapitre de dynamique du point (Cascade en voiture).
+* 8/12 : Préparation la partie [théorèmes énergétiques](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_gene.html) du troisième chapitre de mécanique
+* 8/12 : (Facultatif) L'exercice de méthodes numériques peut être travaillé en application de la méthode d'intégration d'une équatino d'ordre 2 par la méthode d'Euler explicite.
 
 ```
+
+<!-- 
 ## Semaine 12
 ### Lundi  4 décembre 2023
 ```{topic} Travail à faire
