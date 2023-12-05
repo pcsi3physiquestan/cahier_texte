@@ -164,13 +164,20 @@ Pour le :
 
 ```
 
-<!-- 
 ## Semaine 12
 ### Lundi  4 décembre 2023
+* Mécanique - Cinématique et Dynamique du point : Correction des exercices d'entrainement des deux chapitres.
+* Exemple d'utilisation du théorème de l'énergie mécanique.
+
 ```{topic} Travail à faire
 Pour le : 
+* 8/12 : Préparation la partie [théorèmes énergétiques](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_gene.html) du troisième chapitre de mécanique
+* 8/12 : (Facultatif) L'exercice de méthodes numériques peut être travaillé en application de la méthode d'intégration d'une équatino d'ordre 2 par la méthode d'Euler explicite.
 
 ```
+
+
+<!-- 
 ### Jeudi  7 décembre 2023
 ```{topic} Travail à faire
 Pour le : 
