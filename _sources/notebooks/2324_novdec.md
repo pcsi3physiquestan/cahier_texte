@@ -177,21 +177,47 @@ Pour le :
 ```
 
 
-<!-- 
 ### Jeudi  7 décembre 2023
+* Groupe A : [TP Modulation d'amplitude](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/mod_manip.html) - Séance 2
+
+
 ```{topic} Travail à faire
 Pour le : 
+* 8/12 : Préparation la partie [théorèmes énergétiques](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_gene.html) du troisième chapitre de mécanique
+* 8/12 : (Facultatif) L'exercice de méthodes numériques peut être travaillé en application de la méthode d'intégration d'une équatino d'ordre 2 par la méthode d'Euler explicite.
 
+---
+* 21/12 : Groupe A : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
 ```
+
 ### Vendredi  8 décembre 2023
+* Correction des exercices de [dynamique du point](https://pcsi3physiquestan.github.io/mecanique/notebook/theoremes_td.html) (Cascade en voiture et Arrosage)
+* Présentation du cours sur l'[énergétique](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_gene.html) (définition des grandeurs, forces conservatives, notions de gradient)
+
+
 ```{topic} Travail à faire
 Pour le : 
+* 11/12 : Préparer la partie [Systèmes conservatifs](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_conservatifs.html) du chapitre sur l'énergétique.
+* 11/12 : Préparer l'exercice sur le [pendule simple modifié](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_td.html)
+
+---
+* 21/12 : Groupe A : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
 
 ```
+
+<!-- 
 ## Semaine 13
 ### Lundi  11 décembre 2023
+* Présentation des méthodes d'étude d'un [système conservatif](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_conservatifs.html).
+* Correction de l'exercice sur le [pendule simple modifié](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_td.html)
+* Correction de l'exercice sur le [mouvement d'un anneau](https://pcsi3physiquestan.github.io/mecanique/notebook/energetique_td.html)
+
+
 ```{topic} Travail à faire
 Pour le : 
+
+---
+* 21/12 : Groupe A : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
 
 ```
 ### Jeudi  14 décembre 2023
