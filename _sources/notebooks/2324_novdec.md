@@ -244,22 +244,38 @@ Pour le :
 
 ```{topic} Travail à faire
 Pour le : 
-* 18/12 : Travailler le cours sur le mouvement à force centrale en préparation de la seconde partie sur les potentiels newtoniens.
+* 22/12 : Travailler le cours sur le mouvement à force centrale en préparation de la seconde partie sur les potentiels newtoniens.
 
 ---
 * 21/12 : Groupe A : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
 * 11/01 : Groupe B : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
 ```
 
-<!-- 
 ### Jeudi  21 décembre 2023
+* Groupe A : [TP Démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_manip.html) - Séance 1
+
 ```{topic} Travail à faire
 Pour le : 
+* 22/12 : Travailler le cours sur le mouvement à force centrale en préparation de la seconde partie sur les potentiels newtoniens.
 
+---
+* 11/01 : Groupe B : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
+* 18/01 : Groupe A : Mettre eu propre la partie du compte-rendu déjà travaillé en TP.
 ```
 ### Vendredi  22 décembre 2023
+* Mécanique - Mouvement à force centrale, [Potentiels newtoniens](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newtoniens.html) : Ordre de grandeur à l'échelle microscopique, Grandeurs analogues, Trajectoire conique, Lois de Kepler
+    * Application à la détermination de certaines relations avec l'[énergie mécanique](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_methodes.html) et à l'[étude des satellites](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_satellites.html).
+
+
 ```{topic} Travail à faire
 Pour le : 
+* 08/01 : Reprendre les méthodes générales vues en électrocinétiques (RSF, transitoire)
+* 08/01 : Utiliser ces méthodes pour travailler les exercices du chapitre ["Applications - Oscillateurs"](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs.html). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning car ils vont en difficulté croissante._
+* 12/01 : Travailler les exercices du chapitre ["Applications - Etude des pendules"](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
 
-``` 
+---
+* 11/01 : Groupe B : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
+* 18/01 : Groupe A : Mettre eu propre la partie du compte-rendu déjà travaillé en TP.
+```
+<!-- 
 -->
