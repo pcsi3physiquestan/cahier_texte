@@ -228,7 +228,7 @@ Pour le :
 * Statique des fluides. Exemple [de calcul d'une force de pression par le théorème d'Archimède et par calcul intégral](https://pcsi3physiquestan.github.io/statique/notebook/statique_resultante.html).
 * Statique des fluides. Méthode [Etude d'un ballon ascensionnel et d'un iceberg (Théorème d'Archimède), Action de pression sur un barrage (Calcul intégral)](https://pcsi3physiquestan.github.io/statique/notebook/statique_methode.html).
 
-Semaine 20
+## Semaine 20
 ### Lundi 26 février 2024
 * Statique des fluides. Etablissement de l'[équation fondamentale de la statique des fluides](https://pcsi3physiquestan.github.io/statique/notebook/statique_equation.html).
 * Statique des fluides. Application [aux fluides incompressibles](https://pcsi3physiquestan.github.io/statique/notebook/statique_incompressible.html) et aux [gaz parfaits isothermes](https://pcsi3physiquestan.github.io/statique/notebook/statique_gp.html).

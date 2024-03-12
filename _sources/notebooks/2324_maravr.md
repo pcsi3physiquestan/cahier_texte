@@ -56,7 +56,6 @@ Pour le :
 
 ## Semaine 22
 ### Lundi  11 mars 2024
-### Vendredi 8 mars 2024
 * Thermodynamique - Premier principe - Présentation du [premier principe](https://pcsi3physiquestan.github.io/thermodynamique/notebook/th_pp_enonce.html) et de ses [différentes écritures possibles dont le cas monobare](https://pcsi3physiquestan.github.io/thermodynamique/notebook/th_pp_transfo.html)
 * Thermodynamique - Premier principe - Présentation des méthodes de calcul d'un travail mécanique dont celui des [actions de pression extérieures](https://pcsi3physiquestan.github.io/thermodynamique/notebook/th_pp_w.html).
 
