@@ -189,17 +189,21 @@ Pour le :
 
 ---
 * 25/04 : Groupe B : Préparer suivant les groupes la présentation du TP réalisé parmi les [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html). Les présentations dureront 1h.
+* 02/05 : Groupe A : Faire les binômes pour les TPs sur les ondes et préparer le [TP](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) (soit goniomètre, soit corde de Melde et interférences.)
 ```
 
-<!-- 
 ### Vendredi  5 avril 2024
+* Correction des [derniers exercices sur le second principe](https://pcsi3physiquestan.github.io/thermodynamique/notebook/th_sp_td.html).
+* Travail en groupe sur les [études des machines thermiques](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
 ```{topic} Travail à faire
 Pour le : 
-* 19/03 : 
-* 21/03 : 
+* 22/04 : Travail l'étude des différentes machines thermiques.
+* 22/04 : Reprendre l'optique géométrique, la mécanique et l'électrocinétique en vue des prochains chapitres.
+
 
 ---
-* 04/04 : Groupe A : Préparer suivant les groupes la présentation du TP réalisé parmi les [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html). Les présentations dureront 1h.
 * 25/04 : Groupe B : Préparer suivant les groupes la présentation du TP réalisé parmi les [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html). Les présentations dureront 1h.
+* 02/05 : Groupe A : Faire les binômes pour les TPs sur les ondes et préparer le [TP](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) (soit goniomètre, soit corde de Melde et interférences.)
 ```
+<!-- 
 -->
