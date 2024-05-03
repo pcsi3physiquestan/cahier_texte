@@ -85,10 +85,10 @@ Pour le :
 * 16/05 : Groupe B : Faire les binômes pour les TPs sur les ondes et préparer le [TP](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) (soit goniomètre, soit corde de Melde et interférences.)
 ```
 
-<!-- 
 ### Vendredi  3 mai 2024
 * Ondes - Interférences : Fin de l'étude des [fentes d'Young](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_super_meth_young.html).
-* Thermodynamique - Machines thermiques : Présentation de l'étude du [biodiesel  et du réfrigérateur-congélateur](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
+* Ondes - Interférences : Etude de la [lame à face parallèle](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_super_ex.html#entrainement)
+* Thermodynamique - Machines thermiques : Présentation de l'étude du [biodiesel](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
 
 ```{topic} Travail à faire
 Pour le : 
@@ -99,6 +99,7 @@ Pour le :
 
 ```
 
+<!-- 
 ## Semaine 28
 ### Lundi  6 mai 2024
 * Thermodynamique - Machines thermiques : Présentation de l'étude de [l'atmosphère](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
