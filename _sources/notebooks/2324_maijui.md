@@ -99,52 +99,50 @@ Pour le :
 
 ```
 
-<!-- 
 ## Semaine 28
 ### Lundi  6 mai 2024
-* Thermodynamique - Machines thermiques : Présentation de l'étude de [l'atmosphère](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
+* Thermodynamique - Machines thermiques : Présentation de l'étude de [sur le réfrigérateur](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=3108).
 * Ondes - [Ondes stationnaires : Concept](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_contxt.html) et [cas de la corde de Melde](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_meth.html).
 
 ```{topic} Travail à faire
 Pour le :
-* 13/05 : Electromagnétisme : Travailler le [premier chapitre d'électromagnétisme](https://pcsi3physiquestan.github.io/em/notebook/champ_b.html#) jusqu'à "Principe du dipôle magnétique" inclus.
-* 13/05 : Ondes : Travailler les [exercices d'entrainement sur les ondes stationnaires](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_ex.html#entrainement)
+* 16/05 : Ondes : Travailler les [exercices d'entrainement sur les ondes stationnaires](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_ex.html#entrainement)
 
 ---
 * 16/05 : Groupe B : Faire les binômes pour les TPs sur les ondes et préparer le [TP](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) (soit goniomètre, soit corde de Melde et interférences.)
 
 ```
-### Jeudi  9 mai 2024
-```{topic} Travail à faire
-Pour le :
-```
-### Vendredi  10 mai 2024
-```{topic} Travail à faire
-Pour le :
 
-```
 ## Semaine 29
 ### Lundi  13 mai 2024
+* Ondes - [Ondes stationnaires : Concept](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_contxt.html) et [cas de la corde de Melde](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_meth.html).
+* Ondes - Interférences : Correction de l'exercice d'entrainement sur [les trous d'Young](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_super_ex.html#entrainement)
+  
 ```{topic} Travail à faire
 Pour le :
+* 16/05 : Ondes : Travailler les [exercices d'entrainement sur les ondes stationnaires](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_ex.html#entrainement)
 
+---
+* 16/05 : Groupe B : Faire les binômes pour les TPs sur les ondes et préparer le [TP](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) (soit goniomètre, soit corde de Melde et interférences.)
 ```
+
 ### Jeudi  16 mai 2024
-```{topic} Travail à faire
-Pour le :
+* Groupe B - [TP Ondes](https://pcsi3physiquestan.github.io/tp4_analspec/tp4_analspec.html) : Première séance.
+* Ondes - Ondes stationnaires : Correction des [exercices d'entrainement sur les ondes stationnaires](https://pcsi3physiquestan.github.io/ondes/notebook/ondes_stat_ex.html#entrainement)
 
-```
+<!-- 
 ### Vendredi  17 mai 2024
+* Thermodynamique - Machines thermiques : Présentation de l'étude sur l'atmosphère.
+* Ondes - Interférences : Correction de la fin des exercices sur les trous d'Young
+* Electromagnétisme : Présentation des champs magnétiques et de leur propriétés symétrie, structure des lignes de champ, flux).
+
 ```{topic} Travail à faire
 Pour le :
+* 24/05 : Electromagnétisme : Travailler le [premier chapitre d'électromagnétisme](https://pcsi3physiquestan.github.io/em/notebook/champ_b.html#) jusqu'à "Principe du dipôle magnétique" inclus.
 
 ```
 ## Semaine 30
-### Lundi  20 mai 2024
-```{topic} Travail à faire
-Pour le :
 
-```
 ### Jeudi  23 mai 2024
 ```{topic} Travail à faire
 Pour le :
