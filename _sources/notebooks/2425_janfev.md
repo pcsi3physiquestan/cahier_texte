@@ -14,47 +14,45 @@ kernelspec:
   name: python3
 ---
 # Janvier - Février
-<!-- ## Semaine 15
+## Semaine 15
 ### Lundi  6 janvier 2025
-* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Mise en équation](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_equation.html) et [Oscillateur harmonique](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_harmonique.html))
-* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Mise en équation](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_equation.html) et [Oscillateur amorti](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_amorti.html))
-* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Exercice d'Entrainement : Ammortisseur et étude d'un portrait de phase](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_td.html))
+* Mécanique - Mouvement à force centrale : Correction des exercices méthode
 
 ```{topic} Travail à faire
 Pour le : 
 * 06/01 au 20/01 : Travailler les exercices d'applications en mécanique. Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning car ils vont en difficulté croissante._
-* 10/01 : Travailler les exercices du chapitre ["Applications - Etude des pendules"](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
 
 ---
-* 09/01 : Groupe B : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
-* 16/01 : Groupe A : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
+* 09/01 : Groupe A : Préparer l'étude préliminaire du TP sur la [démodulation](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_preliminaire.html) (penser à préparer le tableau Excel)
+* 16/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
 ```
 
 ### Jeudi  9 janvier 2025
-* Groupe B - TP Electrocinétique : [Démodulation d'amplitude](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_manip.html)
+* Groupe A - TP Electrocinétique : [Démodulation d'amplitude](https://pcsi3physiquestan.github.io/tp3_electronique_1/notebook/demod_manip.html)
 
 ```{topic} Travail à faire
 Pour le : 
 * 06/01 au 20/01 : Travailler les exercices d'applications en mécanique. Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning car ils vont en difficulté croissante._
-* 10/01 : Travailler les exercices du chapitre ["Applications - Etude des pendules"](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
 
 ---
-* 16/01 : Groupe A : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
-* 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
+* 16/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
+* 30/01 : Groupe A : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
 ```
 ### Vendredi  10 janvier 2025
+* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Mise en équation](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_equation.html) et [Oscillateur harmonique](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_harmonique.html))
+* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Mise en équation](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_equation.html) et [Oscillateur amorti](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_amorti.html))
 * Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Mise en équation](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_equation.html) et [Oscillateur forcé](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_forces.html))
 
 ```{topic} Travail à faire
 Pour le : 
 * 06/01 au 20/01 : Travailler les exercices d'applications en mécanique. Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning car ils vont en difficulté croissante._
-* 13/01 : Travailler les exercices d'entrainement restants du chapitre ["Applications - Oscillateurs"](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
 
 ---
 * 16/01 : Groupe A : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
 * 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
 ```
 
+<!-- 
 ## Semaine 16
 ### Lundi  13 janvier 2025
 * Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Etude des pendules simples](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html#))
