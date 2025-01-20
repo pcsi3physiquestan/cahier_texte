@@ -17,6 +17,7 @@ kernelspec:
 ## Semaine 15
 ### Lundi  6 janvier 2025
 * Mécanique - Mouvement à force centrale : Correction des exercices méthode
+* Mécanique - Mouvement de particules chargées : Accélération par un champ électrique
 
 ```{topic} Travail à faire
 Pour le : 
@@ -52,11 +53,10 @@ Pour le :
 * 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
 ```
 
-<!-- 
 ## Semaine 16
 ### Lundi  13 janvier 2025
-* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Etude des pendules simples](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html#))
 * Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Exercice d'Entrainement : Piscine à vague et Systèmes de deux points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_td.html))
+* * Mécanique - Mouvement de particules chargées : Déflexion par un champ électrique ou un champ magnétique
 
 
 ```{topic} Travail à faire
@@ -84,7 +84,7 @@ Pour le :
 
 ### Vendredi  17 janvier 2025
 * Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Etude des pendules simples](https://pcsi3physiquestan.github.io/mecanique/notebook/pendules.html#))
-* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Exercice d'Entrainement : Piscine à vague et Systèmes de deux points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_td.html))
+* Mécanique - Oscillateurs : Correction des exercices par les groupes désignés ([Exercice d'Entrainement : Oscillateurs](https://pcsi3physiquestan.github.io/mecanique/notebook/oscillateurs_td.html))
 
 
 ```{topic} Travail à faire
@@ -97,6 +97,7 @@ Pour le :
 * 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
 ```
 
+<!-- 
 ## Semaine 17
 ### Lundi  20 janvier 2025
 * Mécanique - Mouvement à force centrale : Correction des exercices par les groupes désignés ([Mouvements à force centrale quelconque](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#forces-centrales-quelconques))
