@@ -94,10 +94,9 @@ Pour le :
 
 ---
 * 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
 ```
 
-<!-- 
 ## Semaine 17
 ### Lundi  20 janvier 2025
 * Mécanique - Mouvement à force centrale : Correction des exercices par les groupes désignés ([Mouvements à force centrale quelconque](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#forces-centrales-quelconques))
@@ -109,7 +108,7 @@ Pour le :
 
 ---
 * 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
 ```
 
 ### Jeudi  23 janvier 2025
@@ -121,28 +120,28 @@ Pour le :
 * 24/01 : Travailler les exercices d'entrainement du chapitre ["Mouvement à force centrale"](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#potentiels-newtoniens) (ceux sur les potentiels newtoniens). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
 ### Vendredi  24 janvier 2025
 * Mécanique - Mouvement à force centrale : Correction des exercices par les groupes désignés ([Mouvements à force centrale newtoniens : Vecteur excentricité, Explosion d'une comète, Mise en orbite d'une sonde spatiale](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#forces-centrales-quelconques))
+* Mécanique - Mouvement des particules chargées : Modèle de Drüde
 
 
 ```{topic} Travail à faire
 Pour le : 
-* 27/01 : Travailler les exercices d'entrainement du chapitre ["Mouvement à force centrale"](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#potentiels-newtoniens) (ceux sur les potentiels newtoniens). Les groupes qui présenteront les exercices sont en lignes suivant le planning donné. _Il est vivement conseillé de travailler les exercices dans l'ordre du planning._
+* 27/01 : Reprendre le cours sur le mouvement des particules chargées
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
 ## Semaine 18
 ### Lundi  27 janvier 2025
-* Mécanique - Mouvement à force centrale : Correction des exercices par les groupes désignés ([Comète à trajectoire parabolique](https://pcsi3physiquestan.github.io/mecanique/notebook/centrales_newt_td.html#forces-centrales-quelconques))
-* Mécanique - Approche numérique : Application du schéma d'Euler d'ordre 2 à l'étude d'un système conservatif. Présentation de la méthode. Le [devoir libre n°3](https://moodlecpge.stanislas.fr/pluginfile.php/265/mod_resource/content/3/devoirs_numeriques.pdf) sur les capacités numériques sera à travailler durant les vacances d'hiver.
-* Mécanique - Systèmes de points matériels. Présentation des éléments [cinématiques et cinétiques nécessaires à l'étude du mouvement des solides](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_cinema.html).
+* Mécanique - Mouvement des particules chargés. Correction des exercices d'entrainement.
+* Mécanique - Systèmes de points matériels : Eléments cinématiques et cinétiques d'un système de points.
 
 
 ```{topic} Travail à faire
@@ -150,10 +149,11 @@ Pour le :
 * 3/02 : Travailler la partie "Connaître le contexte" du chapitre sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_contxt.html).
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
+<!-- 
 ### Jeudi 30 janvier 2025
 CONCOURS BLANC - PAS DE TP
 ```{topic} Travail à faire
