@@ -79,7 +79,7 @@ Pour le :
 
 ---
 * 30/01 : Groupe B : Mettre au propre la partie du compte-rendu déjà travaillé en TP.
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
 ```
 
 ### Vendredi  17 janvier 2025
@@ -153,7 +153,6 @@ Pour le :
 * 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
-<!-- 
 ### Jeudi 30 janvier 2025
 CONCOURS BLANC - PAS DE TP
 ```{topic} Travail à faire
@@ -161,8 +160,8 @@ Pour le :
 * 3/02 : Travailler la partie "Connaître le contexte" du chapitre sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_contxt.html).
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 ### Vendredi 31 janvier 2025
 CONCOURS BLANC - PAS DE COURS
@@ -171,9 +170,10 @@ Pour le :
 * 3/02 : Travailler la partie "Connaître le contexte" du chapitre sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_contxt.html).
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
+<!-- 
 ## Semaine 19
 ### Lundi 3 février 2025
 * Mécanique - Systèmes de points matériels. Présentation des éléments [dynamiques et des théorèmes fondamentaux](https://pcsi3physiquestan.github.io/mecanique/notebook/actions_globales.html).
@@ -187,8 +187,8 @@ Pour le :
 * 7/02 : Reprendre l'exemple du calcul intégral d'une force en préparation du chapitre de statique des fluides.
 
 ---
-* 06/02 : Groupe A : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
 ### Jeudi 6 février 2025
@@ -202,7 +202,7 @@ Pour le :
 * 7/02 : Reprendre l'exemple du calcul intégral d'une force en préparation du chapitre de statique des fluides.
 
 ---
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 * 06/03 : Groupe A : Préparer suivant les groupes le [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html) (Etude préliminaire et lecture du TP). Les groupes sont disponibles [ici](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=2782).
 ```
 
@@ -218,7 +218,7 @@ Pour le :
 * 10/02 : Reprendre les méthodes de calcul d'une résultante des actions de pression.
 
 ---
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 * 06/03 : Groupe A : Préparer suivant les groupes le [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html) (Etude préliminaire et lecture du TP). Les groupes sont disponibles [ici](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=2782).
 ```
 
@@ -239,7 +239,7 @@ Pour le :
 * 03/03 : Travailler la partie "Connaître le contexte" du chapitre de [Thermodynamique - Description d'un système thermodynamique](https://pcsi3physiquestan.github.io/thermodynamique/notebook/th_d_contxt.html)
 
 ---
-* 13/02 : Groupe B : Préparer l'examen de TP d'électrocinétique : Revoir les méthodes et le cours d'électrocinétique.
+* 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 * 06/03 : Groupe A : Préparer suivant les groupes le [TP de mécanique ou de thermodynamique](https://pcsi3physiquestan.github.io/tp5_mecathermo/tp5_mecathermo.html) (Etude préliminaire et lecture du TP). Les groupes sont disponibles [ici](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=2782).
 ```
 
