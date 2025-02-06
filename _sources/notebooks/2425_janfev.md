@@ -173,26 +173,25 @@ Pour le :
 * 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
 * 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
-<!-- 
 ## Semaine 19
 ### Lundi 3 février 2025
 * Mécanique - Systèmes de points matériels. Présentation des éléments [dynamiques et des théorèmes fondamentaux](https://pcsi3physiquestan.github.io/mecanique/notebook/actions_globales.html).
-* Mécanique - Systèmes de points matériels. Correction [d'exercices méthodes : Calcul de quantité de mouvement et de moment cinétique, Etude d'un volant et d'un solide en rotation](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_methode.html).
-* Mécanique - Systèmes de points matériels. Exemple de calcul d'une force et d'un moment par intégration (cas linéique) en vue du cours de statique des fluides.
 
 
 ```{topic} Travail à faire
 Pour le : 
-* 6/02 : Travailler les exercices d'entraintement du chapitre sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_td.html).
-* 7/02 : Reprendre l'exemple du calcul intégral d'une force en préparation du chapitre de statique des fluides.
+* 6/02 : Travailler les exercices méthodes du chapitre sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_td.html).
 
 ---
 * 06/02 : Groupe A : Lire les études préliminaires des TPs sur les ondes.
 * 13/02 : Groupe B : Lire les études préliminaires des TPs sur les ondes.
 ```
 
+<!-- 
 ### Jeudi 6 février 2025
 * Groupe A - Examen de TP : [Etude d'une bobine](https://moodlecpge.stanislas.fr/mod/assign/view.php?id=2718)
+* Mécanique - Systèmes de points matériels. Exemple de calcul d'une force et d'un moment par intégration (cas linéique) en vue du cours de statique des fluides.
+* Mécanique - Systèmes de points matériels. Correction [d'exercices méthodes : Calcul de quantité de mouvement et de moment cinétique, Etude d'un volant et d'un solide en rotation](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_methode.html).
 * Mécanique - TD - Correction des exercices sur [les systèmes de points matériels](https://pcsi3physiquestan.github.io/mecanique/notebook/systeme_td.html).
 
 
